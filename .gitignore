@@ -1,0 +1,10 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos __pycache__
+__pycache__/
+*.py[cod]
+
+# API Key
+.env
