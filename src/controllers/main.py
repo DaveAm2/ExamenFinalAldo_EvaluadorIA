@@ -15,7 +15,7 @@ class QuizController:
     def __init__(self, page: ft.Page):
         self.page = page
         self.model = QuizModel()
-        self.page.title = "EvaluadorIA - Flet & LangChain"
+        self.page.title = "Examen - Flet & LangChain"
         self.page.theme_mode = ft.ThemeMode.LIGHT
 
         # Configurar FilePicker

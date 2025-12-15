@@ -10,7 +10,7 @@ class AppViews:
         """
         content = [
             ft.Icon(name="school", size=100, color="blue"),
-            ft.Text("EvaluadorIA", size=30, weight="bold"),
+            ft.Text("Autoevaluación con IA", size=30, weight="bold"),
             ft.Text("Sube tu PDF y genera un examen con IA", size=16),
             ft.Divider(height=20, color="transparent"),
         ]
